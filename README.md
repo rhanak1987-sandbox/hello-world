@@ -6,7 +6,6 @@ more exclamation marks!!!4
 
 ### Tech Stack
  * git: local-repo, github
- * html, css
 
 Best Regards,
 Chuck... I mean, Carol
