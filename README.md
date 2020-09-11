@@ -1,7 +1,8 @@
 # hello-world
 
 ### some real content
-https://github.com/rhanak1987-sandbox/hello-world/wiki
+* https://github.com/rhanak1987-sandbox/hello-world/wiki
+* see also: https://github.com/orgs/rhanak1987-sandbox/projects/1
 
 ### Tech Stack
  * git: local-repo, github, md
