@@ -7,7 +7,7 @@
 * jump to: https://github.com/orgs/rhanak1987-sandbox/projects/1
 
 ### Tech Stack
- * git: local-repo, github, md
+ * git: github, md
 
 ### this crypt ion
 Dragons are not included.
