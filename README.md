@@ -16,12 +16,12 @@ This is a personal demo project for self study and experiments.
 #### evolution
 :bulb:
 :eyeglasses: >> 
-:computer:
-:thinking: >> 
 :owl:
+:hourglass: >> 
+:thinking:
 :mortar_board: >> 
 :man_student:
-:hourglass: >>
+:computer: >>
 :octocat:
 
 #### result
