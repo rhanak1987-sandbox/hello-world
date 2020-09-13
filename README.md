@@ -1,6 +1,8 @@
 # hello-world
 
-### [github-wiki] some real content here
+This is a personal demo project for self study and experiments.
+
+### [github-wiki] local content
 * https://github.com/rhanak1987-sandbox/hello-world/wiki
 
 ### [github-project] external references
@@ -8,6 +10,23 @@
 
 ### Tech Stack
  * git: github, md
+
+### Emoji Stack
+
+#### evolution
+:bulb:
+:eyeglasses: >> 
+:computer:
+:thinking: >> 
+:owl:
+:mortar_board: >> 
+:man_student:
+:hourglass: >>
+:octocat:
+
+#### result
+:checkered_flag:
+:+1:
 
 ### this crypt ion
 Dragons are not included.
