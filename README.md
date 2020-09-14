@@ -1,15 +1,18 @@
 # hello-world
 
-This is a personal demo project for self study and experiments.
+This is a personal test repo for self study and experiments.
+
+### About
+try github - test repo (for) study and experiments
+
+### Tech Stack
+ * git: github, md
 
 ### [github-wiki] local content
 * https://github.com/rhanak1987-sandbox/hello-world/wiki
 
 ### [github-project] external references
 * jump to: https://github.com/orgs/rhanak1987-sandbox/projects/1
-
-### Tech Stack
- * git: github, md
 
 ### Emoji Stack
 
