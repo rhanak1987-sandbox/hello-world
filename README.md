@@ -14,6 +14,10 @@ try github - test repo (for) study and experiments
 ### [github-project] external references
 * jump to: https://github.com/orgs/rhanak1987-sandbox/projects/1
 
+### License
+* actual license: https://github.com/rhanak1987-sandbox/hello-world/blob/master/LICENSE.txt
+* other important notices: https://github.com/rhanak1987-sandbox/hello-world/blob/master/_possible-license-concerns.md
+
 ### Emoji Stack
 
 #### evolution
