@@ -118,10 +118,10 @@ they can have other implications, like technical issues, reduced credibility in 
 * Do not use the 'related files and data', if you are not confident
   in your usage rights, or in possible technical issues, that can arise.
 
-### Images
+### Images, pictures and graphics
 * Avoid using images from the 'direct parent container' outside of the original context of the 'direct parent container'
   * If you want to use an image in another context, please locate the source and get the image directly from the source
-* Images might be from a free image library like https://pixabay.com/
+* Images might be from a free image library, like https://pixabay.com/
   * Read the [pixabay license](https://pixabay.com/service/license/) for further information
 
 ### **AS IS (NO WARRANTY)**
