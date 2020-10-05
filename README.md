@@ -14,9 +14,10 @@ try github - test repo (for) study and experiments
 ### [github-project] external references
 * jump to: https://github.com/orgs/rhanak1987-sandbox/projects/1
 
-### License
-* actual license: https://github.com/rhanak1987-sandbox/hello-world/blob/master/LICENSE.txt
-* other important notices: https://github.com/rhanak1987-sandbox/hello-world/blob/master/_possible-license-concerns.md
+### Legal
+* See the [main License of this repo](./LICENSE.txt)
+* Please check out the [general notes and warnings](./_possible-license-concerns.md) and use it as a guideline.
+* Please use common sense, act with good intentions AND due diligence
 
 ### Emoji Stack
 
