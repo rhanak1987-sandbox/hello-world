@@ -16,7 +16,7 @@ try github - test repo (for) study and experiments
 
 ### Legal
 * See the [main License of this repo](./LICENSE.txt)
-* Please check out the [general notes and warnings](./_possible-license-concerns.md) and use it as a guideline.
+* Please check out the [general notes and warnings](./possible-license-concerns.md) and use it as a guideline.
 * Please use common sense, act with good intentions AND due diligence
 
 ### Emoji Stack
