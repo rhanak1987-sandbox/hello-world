@@ -19,31 +19,4 @@ try github - test repo (for) study and experiments
 * Please check out the [general notes and warnings](./possible-license-concerns.md) and use it as a guideline.
 * Please use common sense, act with good intentions AND due diligence
 
-### Emoji Stack
-
-#### evolution
-:bulb:
-:eyeglasses: >> 
-:owl:
-:hourglass: >> 
-:thinking:
-:mortar_board: >> 
-:man_student:
-:computer: >>
-:octocat:
-
-#### result
-:checkered_flag:
-:+1:
-
-### this crypt ion
-Dragons are not included.
-
-Lets get coding before its all too late! I hope to learn a lot here!
-more exclamation marks!!!4
-
-Best Regards,  
-Chuck... I mean, Carol<br/>
-https://en.wikipedia.org/wiki/Alice_and_Bob
-
 ###### fin
